@@ -1,7 +1,6 @@
 # Predicting_the_Next_Pitch
 A Real-Time Model that Tries to Predict the Type of Next Pitch in the MLB
 
-```html
 <h2>Example of code</h2>
 
 <pre>
@@ -14,4 +13,4 @@ A Real-Time Model that Tries to Predict the Type of Next Pitch in the MLB
         </div>
     </div>
 </pre>
-```
+
