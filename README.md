@@ -1,6 +1,6 @@
 # Predicting the Next Pitch: A Statistical Analysis
 
-<img align="right" src="baseball.jpg">
+<img align="right" src="baseball2.jpg">
 
 > “Baseball is like church. Many attend, few understand.”
 - Leo Durocher
