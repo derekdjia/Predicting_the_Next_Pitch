@@ -3,7 +3,7 @@
 > “Baseball is like church. Many attend, few understand.”
 - Leo Durocher
 
-![jpg](baseball.jpg)
+<img align="right" width="100" height="100" src="baseball.jpg">
 
 The purpose of this assigment is to predict the type of pitch in real time. 
 
