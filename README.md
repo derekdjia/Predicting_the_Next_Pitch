@@ -1,11 +1,9 @@
-# Predicting_the_Next_Pitch
-A Real-Time Model that Tries to Predict the Type of Next Pitch in the MLB
-
-
 # Predicting the Next Pitch: A Statistical Analysis
 
 > “Baseball is like church. Many attend, few understand.”
 - Leo Durocher
+
+![jpg](baseball.jpg)
 
 The purpose of this assigment is to predict the type of pitch in real time. 
 
